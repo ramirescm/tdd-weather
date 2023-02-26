@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Orlando",
+        "lat": 36.1380605,
+        "lon": -97.37212414818295,
+        "country": "US",
+        "state": "Oklahoma"
+      },
+      {
+        "name": "Orlando",
+        "lat": 38.8712074,
+        "lon": -80.5937044,
+        "country": "US",
+        "state": "West Virginia"
+      },
+      {
+        "name": "Orlando",
+        "lat": -26.2225413,
+        "lon": 27.9117529,
+        "country": "ZA",
+        "state": "Gauteng"
+      },
+      {
+        "name": "Orlando",
+        "lat": 36.1489309,
+        "lon": -97.378098,
+        "country": "US",
+        "state": "Oklahoma"
+      }
+]

@@ -1,3 +1,10 @@
+# Weather application
+Project to learn tdd with react and miragejs, creating components practing tdd, consuming weather api.
+
+# For run this project
+Create a .env.local and add your key
+You get the key on site https://openweathermap.org/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
