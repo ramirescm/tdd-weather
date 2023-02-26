@@ -45,7 +45,7 @@ export const Search = ({
           onChange={handleChange}
           placeholder="Enter city name (e.g. Orlando, New York)"
         />
-        <button data-testid="search-button" onClick={handleClick}>
+        <button data-testid="search-button" onClick={handleClick} className="search-button">
           Search
         </button>
       </div>

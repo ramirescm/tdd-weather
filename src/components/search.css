@@ -5,12 +5,22 @@
 }
 
 .input-container input {
-  padding: 0.4rem 1rem;
+  padding: 0.5rem 1rem;
   width: 100%;
+  border: #f0f0f0 1px solid;
+  border-radius: 5px;
+}
+
+.input-container input::placeholder {
+  color: #9a9a9a;
 }
 
 .input-container button {
-  padding: 0.4rem 1rem;
+  padding: 0.5rem 1rem;
+  background-color: #358fff;
+  border: none;
+  color: #fff;
+  border-radius: 5px;
 }
 
 .search-results {
@@ -32,6 +42,6 @@
 }
 
 .search-result .city-location {
-    margin-left: auto;
-    color: #ccc;
+  margin-left: auto;
+  color: #ccc;
 }

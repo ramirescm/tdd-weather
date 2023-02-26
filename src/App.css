@@ -1,9 +1,11 @@
 .app {
   width: 600px;
   margin: 2rem auto;
+  
 }
 
 .cities-container {
+  margin-top: 20px;
   display: flex;
   gap: 1rem;
 }
